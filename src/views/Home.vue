@@ -16,3 +16,7 @@ export default Vue.extend({
   },
 });
 </script>
+
+<style lang="scss">
+@import '~assets/stylesheets/variables';
+</style>
